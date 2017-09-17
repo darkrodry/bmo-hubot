@@ -1,0 +1,21 @@
+{
+  "name": "telegram-bot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Rodrigo De Frutos <darkrodry@gmail.com>",
+  "description": "My awesome BMO assistant",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-telegram": "^0.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
